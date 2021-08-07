@@ -5,5 +5,3 @@ print ("value in meter")
 meter=a*1000
 print (meter)
 
-print("new change")
-
