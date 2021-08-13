@@ -8,6 +8,7 @@ total=sub1+sub2+sub3+sub4+sub5
 # new change by remote
 print("Total marks is:", total )
 avg=(sub1+sub2+sub3+sub4+sub5)/5
+# test tst
 if avg>=80 and avg<=100:
 	print("Grade:A")
 else:
@@ -27,5 +28,6 @@ percentage=(total/500)*100
 print("Percentage is", percentage)
 if percentage>33:
 	print("Result is: Pass")
+#new change my local
 else:
 		print("Result is: Fail")
