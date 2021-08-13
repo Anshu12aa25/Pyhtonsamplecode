@@ -3,7 +3,9 @@ sub2=int(input("Enter marks of the 2nd subject"))
 sub3=int(input("Enter marks of the 3rd subject"))
 sub4=int(input("Enter marks of the 4th subject"))
 sub5=int(input("Enter marks of the 5th subject"))
+
 total=sub1+sub2+sub3+sub4+sub5
+# new change by remote
 print("Total marks is:", total )
 avg=(sub1+sub2+sub3+sub4+sub5)/5
 if avg>=80 and avg<=100:
