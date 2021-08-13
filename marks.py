@@ -1,3 +1,4 @@
+
 sub1=int(input("Enter marks of the 1st subject  1"))
 sub2=int(input("Enter marks of the 2nd subject  2"))
 sub3=int(input("Enter marks of the 3rd subject"))
