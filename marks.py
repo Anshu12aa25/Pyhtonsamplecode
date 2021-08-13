@@ -1,5 +1,5 @@
-sub1=int(input("Enter marks of the 1st subject"))
-sub2=int(input("Enter marks of the 2nd subject"))
+sub1=int(input("Enter marks of the 1st subject  1"))
+sub2=int(input("Enter marks of the 2nd subject  2"))
 sub3=int(input("Enter marks of the 3rd subject"))
 sub4=int(input("Enter marks of the 4th subject"))
 sub5=int(input("Enter marks of the 5th subject"))
